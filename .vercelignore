@@ -1,0 +1,8 @@
+.git/
+.impeccable/
+.vercel/
+*.zip
+PRODUCT.md
+DESIGN.md
+README.md
+.prerender/

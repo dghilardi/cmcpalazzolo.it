@@ -1,0 +1,6 @@
+.vercel/
+.impeccable/
+*.zip
+node_modules/
+dist/
+.prerender/
