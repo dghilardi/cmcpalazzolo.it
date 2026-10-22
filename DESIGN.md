@@ -18,25 +18,67 @@ typography:
     fontWeight: 500
     lineHeight: 1.12
     letterSpacing: "-0.035em"
+  display-mobile:
+    fontFamily: "Fraunces, Georgia, serif"
+    fontSize: "clamp(45px, 9vw, 66px)"
+    fontWeight: 500
+    lineHeight: 1.12
   headline:
     fontFamily: "Fraunces, Georgia, serif"
     fontSize: "36px"
     fontWeight: 500
     lineHeight: 1.12
     letterSpacing: "-0.025em"
+  headline-mobile:
+    fontFamily: "Fraunces, Georgia, serif"
+    fontSize: "30px"
+    fontWeight: 500
+    lineHeight: 1.12
   title:
     fontFamily: "Fraunces, Georgia, serif"
     fontSize: "23px"
     fontWeight: 500
     lineHeight: 1.12
+  title-mobile:
+    fontFamily: "Fraunces, Georgia, serif"
+    fontSize: "22px"
+    fontWeight: 500
+    lineHeight: 1.12
+  lead:
+    fontFamily: "Arial, Helvetica, sans-serif"
+    fontSize: "18px"
+    fontWeight: 400
+    lineHeight: 1.7
+  intro-mobile:
+    fontFamily: "Arial, Helvetica, sans-serif"
+    fontSize: "16px"
+  body-lg:
+    fontFamily: "Arial, Helvetica, sans-serif"
+    fontSize: "17px"
   body:
     fontFamily: "Arial, Helvetica, sans-serif"
     fontSize: "16px"
     fontWeight: 400
     lineHeight: 1.65
+  body-sm:
+    fontFamily: "Arial, Helvetica, sans-serif"
+    fontSize: "15px"
+  caption:
+    fontFamily: "Arial, Helvetica, sans-serif"
+    fontSize: "14px"
+  sub:
+    fontFamily: "Arial, Helvetica, sans-serif"
+    fontSize: "13px"
+  fine:
+    fontFamily: "Arial, Helvetica, sans-serif"
+    fontSize: "12px"
+  micro:
+    fontFamily: "Arial, Helvetica, sans-serif"
+    fontSize: "11px"
 rounded:
-  button: "4px"
+  focus: "2px"
   image: "3px"
+  button: "4px"
 spacing:
   section: "66px"
   columns: "70px"
@@ -56,7 +98,7 @@ components:
 
 ## Overview
 
-Pagina essenziale in continuità con il sito attuale: logo rosso, titoli Fraunces, testo sobrio e fotografia d’archivio. Queste scelte descrivono l’implementazione esistente; non introducono una nuova identità.
+Pagina essenziale in continuità con il sito attuale: logo rosso, titoli Fraunces, testo sobrio e fotografia dell'orchestra. Queste scelte descrivono l’implementazione esistente; non introducono una nuova identità.
 
 ## Colors
 
