@@ -48,3 +48,7 @@ npm run preview
 - **Sede:** Casa della Musica, Piazzale Dante Alighieri 2, 25036 Palazzolo sull'Oglio (BS)
 - **Contatti:** `info@cfmpalazzolo.it` · Tel. 030 730 1287 / 328 638 0819
 - **Sito storico di riferimento:** [cfmpalazzolo.it](https://www.cfmpalazzolo.it/)
+
+## Fotografie
+
+Fonti e originali sono raccolti in [ASSETS.md](./ASSETS.md). La foto esterna della sede proviene dal Comune di Palazzolo sull’Oglio ed è attribuita nella pagina.

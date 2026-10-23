@@ -5,7 +5,7 @@ function Header() {
     <header>
       <a aria-label={`${association.name}, inizio pagina`} className="identity" href="#">
         <img alt="" height="52" src="/assets/logo-cfm.jpg" width="52" />
-        <span>Corpo Musicale<small>Citta’ di Palazzolo APS</small></span>
+        <span>Corpo Musicale<small>Città di Palazzolo APS</small></span>
       </a>
       <nav aria-label="Navigazione principale">
         <a className="about-link" href="#associazione">L’associazione</a>
@@ -93,11 +93,14 @@ function Contacts() {
           </div>
           <div>
             <h3>Parliamone</h3>
-            <a className="email" href="mailto:info@cfmpalazzolo.it">info@cfmpalazzolo.it</a>
-            <p>
-              <a href="tel:+390307301287">030 730 1287</a><br />
-              <a href="tel:+393286380819">328 638 0819</a> · anche WhatsApp
-            </p>
+            <ul className="contact-methods">
+              <li><a className="email" href="mailto:info@cfmpalazzolo.it">info@cfmpalazzolo.it</a></li>
+              <li><a href="tel:+390307301287">030 730 1287</a></li>
+              <li className="mobile-line">
+                <a href="tel:+393286380819">328 638 0819</a>
+                <a className="whatsapp" href="https://wa.me/393286380819" aria-label="Scrivici su WhatsApp al 328 638 0819">WhatsApp</a>
+              </li>
+            </ul>
             <p className="hours"><strong>Segreteria</strong><br />Lunedì e giovedì, 17:00–18:30</p>
           </div>
         </div>
@@ -105,11 +108,16 @@ function Contacts() {
           <img
             alt="Esterno della Casa della Musica di Palazzolo sull’Oglio, sede del Corpo Musicale e del CFM."
             loading="lazy"
-            height="1024"
+            height="1280"
             src="/assets/casa-della-musica.webp"
-            width="1024"
+            srcSet="/assets/casa-della-musica-640.webp 640w, /assets/casa-della-musica.webp 1280w"
+            sizes="(max-width: 600px) calc(100vw - 40px), 520px"
+            width="1280"
           />
-          <figcaption>La sede in Piazzale Dante Alighieri 2.</figcaption>
+          <figcaption>
+            La Casa della Musica in Piazzale Dante Alighieri 2.{' '}
+            <a href="https://www.comune.palazzolosulloglio.bs.it/novita/comunicati-stampa/conclusi-i-lavori-per-lefficientamento-energetico-alla-casa-della-musica">Foto del Comune di Palazzolo sull’Oglio, 2025.</a>
+          </figcaption>
         </figure>
       </div>
     </section>

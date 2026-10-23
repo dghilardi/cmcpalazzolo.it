@@ -22,3 +22,5 @@ Nome e contenuti del Corpo Musicale e del CFM «Riccardo Mosca». Versione minim
 
 ## Evidence on Hand
 https://www.cfmpalazzolo.it/ e https://www.cfmpalazzolo.it/la-storia-del-corpo-musicale-di-palazzolo/ consultati il 22 ottobre 2026. Da queste fonti provengono logo, fotografia d'archivio, sede, recapiti, storia e identificativi fiscali. Denominazione legale e qualifica APS confermate dall'utente; numero iscrizione RUNTS non fornito. Il sito riporta «Corpo Musicale Palazzolo s/O» nel footer e «Corpo Musicale Città di Palazzolo sull'Oglio» nei contenuti.
+
+La fotografia esterna della sede è tratta dal comunicato del Comune di Palazzolo sull'Oglio del 22 settembre 2025 sui lavori alla Casa della Musica, verificato il 23 ottobre 2026. Provenienza e file originali sono documentati in ASSETS.md. Il precedente collage non raffigurava la sede reale ed è stato sostituito.
